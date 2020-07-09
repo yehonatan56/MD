@@ -1,0 +1,107 @@
+
+
+*{
+    box-sizing: border-box;
+    outline: none;
+}
+body{
+direction:rtl;
+margin: 0px;
+    background: url(".../IMG/gr.jpg")
+font-family:Arial, Helvetica, sans-serif;
+}
+#header{
+background:#a2d5f4;
+max-height: 239px;
+}
+.hodaa{
+color:#FF0000;
+font-weight:bold;
+}
+#header p , #img_logo , #header p{
+}
+.header-menu{
+    position: absolute;
+    top: 164px;
+    background: none;
+    margin: 50px;
+}
+.header-menu i{
+  margin-top:  100px;
+    margin-left: 20px;
+}
+.tow-links-end{
+    float: left;
+}
+#img_logo{
+height:130px;
+    width: 366px;
+    width: 366px;
+}
+
+#adress{
+    margin-right: 10px;
+/* text-align:center; */
+background:#31749d;
+color:#CCCCCC;
+height:60px;
+margin-top:-10px;
+}
+#cemold{
+font-size:16px;
+margin-left:400px;
+margin-top:-250px;
+margin-right:1px;
+text-align:justify;
+line-height:22px;
+}
+
+#main {
+    margin: 148px;
+    margin-right: -2px;
+	color:blue;
+    margin-left: 136px;
+}
+}
+p{				
+margin-right: 254px;
+margin-top: -147px;
+}
+
+#rashi{
+margin-right:390px;
+margin-top: -300px;
+font-size:20px;
+}
+
+#nisoin{
+font-size:16px;
+margin-left:300px;
+margin-top:-250px;
+margin-right:1px;
+text-align:justify;
+line-height:48px;
+}
+
+
+#contac{
+font-size:16px;
+margin-left:300px;
+margin-top:-300px;
+margin-right:20px;
+text-align:justify;
+line-height:26px;
+color:#330000;
+}
+
+
+#cem{
+font-size:16px;
+margin-left:500px;
+margin-top:-200px;
+margin-right:20px;
+text-align:justify;
+line-height:26px;
+
+}
+
